@@ -24,7 +24,7 @@
 				<DevicesListWrapper LomId="0" />
 				<ClipSlotsListWrapper LomId="0" />
 				<ViewData Value="{}" />
-				<SavedPlayingSlot Value="0" />
+				<SavedPlayingSlot Value="1" />
 				<SavedPlayingOffset Value="0" />
 				<MidiFoldIn Value="true" />
 				<MidiPrelisten Value="true" />
@@ -368,7 +368,133 @@
 							<ClipSlot>
 								<LomId Value="0" />
 								<ClipSlot>
-									<Value />
+									<Value>
+										<MidiClip Time="0">
+											<LomId Value="0" />
+											<LomIdView Value="0" />
+											<WarpMarkers>
+												<WarpMarker SecTime="0" BeatTime="0" />
+												<WarpMarker SecTime="0.015625" BeatTime="0.03125" />
+											</WarpMarkers>
+											<MarkersGenerated Value="false" />
+											<CurrentStart Value="0" />
+											<CurrentEnd Value="4" />
+											<Loop>
+												<LoopStart Value="0" />
+												<LoopEnd Value="4" />
+												<StartRelative Value="0" />
+												<LoopOn Value="true" />
+												<OutMarker Value="4" />
+												<HiddenLoopStart Value="0" />
+												<HiddenLoopEnd Value="4" />
+											</Loop>
+											<Name Value="3 1-Acoustic Almost Bass" />
+											<Annotation Value="" />
+											<ColorIndex Value="27" />
+											<LaunchMode Value="0" />
+											<LaunchQuantisation Value="0" />
+											<TimeSignature>
+												<TimeSignatures>
+													<RemoteableTimeSignature>
+														<Numerator Value="4" />
+														<Denominator Value="4" />
+														<Time Value="0" />
+													</RemoteableTimeSignature>
+												</TimeSignatures>
+											</TimeSignature>
+											<Envelopes>
+												<Envelopes />
+											</Envelopes>
+											<ScrollerTimePreserver>
+												<LeftTime Value="0" />
+												<RightTime Value="0" />
+											</ScrollerTimePreserver>
+											<TimeSelection>
+												<AnchorTime Value="0" />
+												<OtherTime Value="0" />
+											</TimeSelection>
+											<Legato Value="false" />
+											<Ram Value="false" />
+											<GrooveSettings>
+												<GrooveId Value="-1" />
+											</GrooveSettings>
+											<Disabled Value="false" />
+											<VelocityAmount Value="0" />
+											<FollowTime Value="4" />
+											<FollowActionA Value="0" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="1" />
+											<FollowChanceB Value="0" />
+											<Grid>
+												<FixedNumerator Value="1" />
+												<FixedDenominator Value="16" />
+												<GridIntervalPixel Value="20" />
+												<Ntoles Value="2" />
+												<SnapToGrid Value="true" />
+												<Fixed Value="false" />
+											</Grid>
+											<FreezeStart Value="0" />
+											<FreezeEnd Value="0" />
+											<IsSongTempoMaster Value="false" />
+											<IsWarped Value="true" />
+											<Notes>
+												<KeyTracks>
+													<KeyTrack>
+														<Notes>
+															<MidiNoteEvent Time="1.6186394334831835" Duration="0.140272227772227781" Velocity="81" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="2.2348300137362638" Duration="0.449024933399933379" Velocity="71" OffVelocity="64" IsEnabled="true" />
+														</Notes>
+														<MidiKey Value="36" />
+													</KeyTrack>
+													<KeyTrack>
+														<Notes>
+															<MidiNoteEvent Time="1.1287074904262404" Duration="0.308208718364968381" Velocity="119" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="1.6186394334831835" Duration="0.350294757326007344" Velocity="121" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="2.2348300137362638" Duration="0.463265120296370292" Velocity="89" OffVelocity="64" IsEnabled="true" />
+														</Notes>
+														<MidiKey Value="37" />
+													</KeyTrack>
+													<KeyTrack>
+														<Notes>
+															<MidiNoteEvent Time="0.12031744297369297" Duration="0.336417228604728613" Velocity="125" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="0.638639485514485461" Duration="0.322358370795870819" Velocity="124" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="2.2205895666833166" Duration="0.407256285381285388" Velocity="100" OffVelocity="64" IsEnabled="true" />
+														</Notes>
+														<MidiKey Value="38" />
+													</KeyTrack>
+													<KeyTrack>
+														<Notes>
+															<MidiNoteEvent Time="0" Duration="0.162222152847152856" Velocity="122" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="2.5995918144355645" Duration="1.467029584998335" Velocity="125" OffVelocity="64" IsEnabled="true" />
+														</Notes>
+														<MidiKey Value="39" />
+													</KeyTrack>
+													<KeyTrack>
+														<Notes>
+															<MidiNoteEvent Time="0.400272123709623728" Duration="0.308390047452547444" Velocity="120" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="0.918820762570762617" Duration="0.280181537212787213" Velocity="113" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="1.9265305007492508" Duration="0.43428576631701632" Velocity="123" OffVelocity="64" IsEnabled="true" />
+														</Notes>
+														<MidiKey Value="40" />
+													</KeyTrack>
+													<KeyTrack>
+														<Notes>
+															<MidiNoteEvent Time="0.904671110139860124" Duration="0.3221770417082917" Velocity="116" OffVelocity="64" IsEnabled="true" />
+															<MidiNoteEvent Time="1.3810884428071928" Duration="0.335328733766233789" Velocity="123" OffVelocity="64" IsEnabled="true" />
+														</Notes>
+														<MidiKey Value="41" />
+													</KeyTrack>
+												</KeyTracks>
+											</Notes>
+											<BankSelectCoarse Value="-1" />
+											<BankSelectFine Value="-1" />
+											<ProgramChange Value="-1" />
+											<NoteEditorFoldInZoom Value="100" />
+											<NoteEditorFoldInScroll Value="0" />
+											<NoteEditorFoldOutZoom Value="-1" />
+											<NoteEditorFoldOutScroll Value="-1" />
+										</MidiClip>
+									</Value>
 								</ClipSlot>
 								<HasStop Value="true" />
 								<NeedRefreeze Value="true" />
@@ -1466,7 +1592,7 @@
 						</ClipTimeable>
 						<Recorder>
 							<IsArmed Value="true" />
-							<TakeCounter Value="2" />
+							<TakeCounter Value="3" />
 						</Recorder>
 						<MidiControllers>
 							<ControllerTargets.0 Id="15842">
@@ -21292,7 +21418,7 @@
 			<LoopStart Value="0" />
 			<LoopLength Value="12" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="5.3551020408163268" />
+			<CurrentTime Value="4.2782766439909299" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<StartKeyMidi>
